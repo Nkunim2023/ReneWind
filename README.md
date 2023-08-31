@@ -1,11 +1,13 @@
-![image](https://github.com/Nkunim2023/ReneWind/assets/69065500/452b8a10-c3bf-418e-8a65-c687e41722f8)<h1>ReneWind</h1>
-
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+<p align="center">
+<br/>
+<img src="https://i.imgur.com/OFKOADn.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 <h2>Description</h2>
 ReneWind" is a company working on improving the machinery/processes involved in the production of wind energy using machine learning and has collected data of generator failure of wind turbines using sensors. The objective is to build various classification models, tune them and find the best one that will help identify failures so that the generator could be repaired before failing/breaking and the overall maintenance cost of the generators can be brought down.
 <br />
 
+<h2>Professional Certification:</h2>
 
 <h2>Skills & Tools Covered</h2>
 
