@@ -1,4 +1,4 @@
-<img src="https://github.com/Nkunim2023/ReneWind/blob/main/ReneWind%20.jpg?raw=true" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Nkunim2023/ReneWind/blob/main/ReneWind%20.jpg?raw=true" alt="ReneWind Project"/>
 
 
 <h2>Description</h2>
@@ -12,79 +12,79 @@ ReneWind" is a company working on improving the machinery/processes involved in 
 - Regularization
 - Hyperparametertuning
 
-<h2>Program walk-through:</h2>
+<h2>Below is my presentation slides:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/SMMfFIt.png[/img]" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ReneWind Project: <br/>
+<img src="https://i.imgur.com/SMMfFIt.png[/img]" height="80%" width="80%" alt="ReneWind Project"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/hnD6Hgq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Presentation Outline:  <br/>
+<img src="https://i.imgur.com/hnD6Hgq.png" height="80%" width="80%" alt="ReneWind Project"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/UbSKPw0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Business Insights and Recommandations: <br/>
+<img src="https://i.imgur.com/UbSKPw0.png" height="80%" width="80%" alt="ReneWind Project"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/SHNPn93.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Performing Exploratory Data Analysis Results:  <br/>
+<img src="https://i.imgur.com/SHNPn93.png" height="80%" width="80%" alt="ReneWind Project"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/keZExjd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+EDA Results - Univariate Analysis:  <br/>
+<img src="https://i.imgur.com/keZExjd.png" height="80%" width="80%" alt="ReneWind Project"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/8e99VXv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Model Performance Summary:  <br/>
+<img src="https://i.imgur.com/8e99VXv.png" height="80%" width="80%" alt="ReneWind Project"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/E6w6QHT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Training Performance Comparison:  <br/>
+<img src="https://i.imgur.com/E6w6QHT.png" height="80%" width="80%" alt="ReneWind Project"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/ANTDIf1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Validation Performance Comparison:  <br/>
+<img src="https://i.imgur.com/ANTDIf1.png" height="80%" width="80%" alt="ReneWind Project"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/83kNvlA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Xgboost Tuned With Undersampled Test Data Performance:  <br/>
+<img src="https://i.imgur.com/83kNvlA.png" height="80%" width="80%" alt="ReneWind Project"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/83kNvlA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Feature Importances:  <br/>
+<img src="https://i.imgur.com/XHMdQrN.png" height="80%" width="80%" alt="ReneWind Project"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/XHMdQrN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Final Model Selection:  <br/>
+<img src="https://i.imgur.com/9pFi8ta.png" height="80%" width="80%" alt="ReneWind Project"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/zNsGbDb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Testing Final Model Using Pipelines:  <br/>
+<img src="https://i.imgur.com/zNsGbDb.png" height="80%" width="80%" alt="ReneWind Project"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/f5VkJYX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Summary of Most Important Factors used with model:  <br/>
+<img src="https://i.imgur.com/f5VkJYX.png" height="80%" width="80%" alt="ReneWind Project"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/BmyI0gd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Model Performance on Original Data:  <br/>
+<img src="https://i.imgur.com/BmyI0gd.png" height="80%" width="80%" alt="ReneWind Project"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/Jet9H45.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Model Performance with Oversampled Data:  <br/>
+<img src="https://i.imgur.com/Jet9H45.png" height="80%" width="80%" alt="ReneWind Project"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/KKVkwhZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Model Building With Undersampled Data:  <br/>
+<img src="https://i.imgur.com/KKVkwhZ.png" height="80%" width="80%" alt="ReneWind Project"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/HE8Vb4z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Performing Hyperparameter Tuning:  <br/>
+<img src="https://i.imgur.com/HE8Vb4z.png" height="80%" width="80%" alt="ReneWind Project"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/jj8Uz94.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Performing Hyperparameter Tuning: <br/>
+<img src="https://i.imgur.com/jj8Uz94.png" height="80%" width="80%" alt="ReneWind Project"/>
 <br />
 
 
